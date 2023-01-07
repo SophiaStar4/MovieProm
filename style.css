@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Montserrat:ital,wght@0,400;0,700;0,900;1,400&display=swap');
+
+/* Обнуление */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+
+    /* background-color: #030303; */
+    background: linear-gradient(0deg, rgba(3, 3, 3, 0.3) 0%, rgba(3, 3, 3, 0.3) 100%), url('images/Noragami/tumblr_nvp6jfNlOC1sqqtwzo1_1280.png') no-repeat center top / cover fixed;
+
+    color: #F1F1F1;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+/* Шапка */
+
+body > header {
+    /* border: 2px solid black; */
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 15px;
+
+    background: linear-gradient(180deg, rgba(3,3,3,1) 12%, rgba(3,3,3,0.75) 42%, rgba(3,3,3,0.5) 61%, rgba(3,3,3,0.25) 76%, rgba(255,255,255,0) 100%);
+}
+
+.logo {
+    /* border: 2px solid DeepPink; */
+
+    font-size: 24px;
+}
+
+nav {
+    /* border: 2px solid yellow; */
+
+    width: 450px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    /* border: 2px solid DeepPink; */
+
+    width: 60%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* li {
+    border: 2px solid green;
+} */
+
+.tools {
+    /* border: 2px solid red; */
+
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    /* border: 2px solid green; */
+
+    height: 40px;
+}
+
+.icon img {
+    height: 100%;
+}
+
+/* Основное содержание */
+
+/* Титульник */
+
+.cover {
+    display: flex;
+}
+
+/* Шапка 2*/
+
+.cover > header {
+    /* border: 2px solid green; */
+
+    /* width: 25%; */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 20px;
+}
+
+.poster {
+    width: 250px;
+    overflow: hidden;
+    /* border-radius: 30px; */
+    box-shadow: #030303 0 0 50px 5px;
+}
+
+.poster > img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 56px;
+    margin: 20px 0;
+}
+
+.links {
+    font-size: 24px;
+}
+
+.links > a {
+    padding: 10px;
+    border: 2px solid #F1F1F1;
+}
+
+.links > a:hover {
+    border-color: FireBrick;
+    background-color: FireBrick; 
+}
+
+.link > a:active {
+    background-color: rgba(3,3,3,0);
+    color: FireBrick;
+}
+
+/* Описание */
+
+.cover > article {
+    /* height: 75vh; */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.cover > article > p {
+    padding: 20px;
+}
+
+.descrip {
+    border-left: 2px solid FireBrick;
+
+    font-size: 20px;
+    line-height: 30px;
+}
+
+/* Серии */
+
+.watch {
+    background: linear-gradient(0deg, rgba(3,3,3,1) 80%, rgba(255,255,255,0) 100%);
+
+    padding: 20px;
+}
+
+.watch h2 {
+    font-size: 20px;
+}
+
+.series_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    padding: 10px;
+}
+
+.series {
+    /* border: 2px solid green; */
+
+    width: 20%;
+
+    margin: 5px;
+}
+
+.image_container {
+    width: 100%;
+}
+
+.image_container > img {
+    width: 100%;
+}
+
+/* Подвал */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+
+    background: #060606;
+    color: #F1F1F1;
+
+    padding: 20px;
+}
+
+footer ul {
+    width: 100%;
+}
+
+footer li {
+    text-decoration: underline;
+}

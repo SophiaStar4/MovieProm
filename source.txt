@@ -1,0 +1,97 @@
+MovieProm
+Home
+Movie
+Animation
+TV
+
+&#124;
+
+Noragami
+Watch
+Trailer
+Manga
+
+Almost forgotten by everyone, the god Yato dreams of becoming the most respected deity in the world with his temple and other luxuries. But, firstly, he has no money, secondly, he is not eager to work, and, thirdly, everything else, our hero leaves another weapon.
+
+2014 &#124; 12+ &#124; Japan &#124; 2 Season &#124; Anime IMDB 8.0
+Season 1
+                <div class="series_container">
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 1">
+                        </div>
+                        <h4>Series 1</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 2">
+                        </div>
+                        <h4>Series 2</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 3">
+                        </div>
+                        <h4>Series 3</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 4">
+                        </div>
+                        <h4>Series 4</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 5">
+                        </div>
+                        <h4>Series 5</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 6">
+                        </div>
+                        <h4>Series 6</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 7">
+                        </div>
+                        <h4>Series 7</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 8">
+                        </div>
+                        <h4>Series 8</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 9">
+                        </div>
+                        <h4>Series 9</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 10">
+                        </div>
+                        <h4>Series 10</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 11">
+                        </div>
+                        <h4>Series 11</h4>
+                    </div>
+                    <div class="series">
+                        <div class="image_container">
+                            <img src="" alt="series 12">
+                        </div>
+                        <h4>Series 12</h4>
+                    </div>
+                </div>
+
+&#169;All rights reserved
+
+Contacts
+Agreement
+Help
